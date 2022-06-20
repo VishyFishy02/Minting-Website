@@ -1,0 +1,38 @@
+{
+    "name": "Prospect Pass",
+    "symbol": "PP",
+    "description": "Prospect Passes allow the holder exclusive right to place bids in the monthly art auctions of The Prospect Gallery.",
+    "seller_fee_basis_points": 500,
+    "image": "630.png",
+    "animation_url": "630.mp4",
+    "external_url": "https://theprospectgallery.com",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "631"
+      }
+    ],
+    "collection": {
+      "name": "Prospect Passes",
+      "family": "The Prospect Gallery"
+   },
+    "properties": {
+      "files": [
+        {
+            "uri": "630.mp4",
+            "type": "video/mp4"
+        },
+        {
+            "uri": "630.png",
+            "type": "image/png"
+        }
+      ],
+      "category": "video",
+      "creators": [
+            {
+                "address": "7q5BrJqA7T9oVpevggtMEt3S2RTmxhBhmGyqPzBgCBqX",
+                "share": 100
+            }
+        ]
+    }
+}
